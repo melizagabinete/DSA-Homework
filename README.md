@@ -1,5 +1,5 @@
 # DSA-Homework
-##Introduction
+## Introduction
 This Python script is designed to analyze and plot graphs for a set of mathematical problems. It reads x-values from a file, calculates the corresponding y-values based on predefined functions, and presents the results via plots. Additionally, it saves the results for both x and y values to an output file and after each execution, it prompts the user if they wish to try again.
 
 ## Screenshots
