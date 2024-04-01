@@ -7,8 +7,8 @@ Two types of screenshots are available:
 - Graph Screenshots: These display the graphs.
 - Output Screenshots: These display the contents of the output file.
   
-You can view the screenshots of the script here.
+You can view the screenshots of the script [here](screenshots)
 
 ## Files
-Access the program files here.
+Access the program files [here](DSA_Files)
 
