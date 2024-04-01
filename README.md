@@ -4,7 +4,7 @@ This Python script analyzes and plots graphs for a set of mathematical problems.
 
 ## Screenshots
 You can view screenshots of the script:
-[here](DSA-Homework/screenshots)
+[here](screenshots)
 
 ## Files
 You can access the files of the program:
